@@ -1,0 +1,33 @@
+{
+  "name": "chaboksms-api",
+  "version": "1.0.5",
+  "description": "ChabokSms Nodejs Wrapper",
+  "main": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chaboksms/chaboksms-node.git"
+  },
+  "keywords": [
+    "SMS",
+    "ChabokSms",
+	"SMS webservice",
+	"SMS Api",
+    "Async"
+  ],
+  "author": "Zanyar Hasani <hasanizanyar@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Chaboksms/chaboksms-node/issues"
+  },
+  "dependencies": {
+    "soap": "^0.23.0"
+  },
+  "homepage": "https://github.com/Chaboksms/chaboksms-node#readme",
+  "devDependencies": {}
+}
