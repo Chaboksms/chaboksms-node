@@ -22,7 +22,7 @@
 
 
 ```js
-npm install chaboksms
+npm install chaboksms-node
 ```
 
 
@@ -33,7 +33,7 @@ package.json
 
 
 ```json
-"chaboksms": "1.0.5"
+"chaboksms-node": "1.0.5"
 ```
 
 
@@ -62,7 +62,7 @@ package.json
 
 
 ```js
-const MelipayamakApi = require('melipayamak-api')
+const ChaboksmsApi = require('chaboksms-node')
     const username = 'username';
     const password = 'password';
     const api = new ChaboksmsApi(username,password);
