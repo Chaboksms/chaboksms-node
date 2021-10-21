@@ -33,7 +33,7 @@ package.json
 
 
 ```json
-"chaboksms-node": "1.0.5"
+"chaboksms-node": "1.0.6"
 ```
 
 
